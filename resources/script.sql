@@ -1,0 +1,8 @@
+CREATE TABLE livro
+(
+	codigo SERIAL PRIMARY KEY,
+	titulo VARCHAR(100) NOT NULL,
+	autor VARCHAR(100) NOT NULL,
+	quantidade NUMERIC CHECK(quantidade > 0) NOT NULL,
+	data TIMESTAMP WITH TIME ZONE NOT NULL
+);
