@@ -8,8 +8,8 @@ import java.sql.SQLException;
 public class Conexao {
 		private final static String driver = "org.postgresql.Driver";
 		//retirei o usuário e senha por questões de segurança
-		private final static String usuario = "";
-		private final static String senha = "";
+		private final static String usuario = "USUARIO AQUI";
+		private final static String senha = "SENHA AQUI";
 		private final static String host = "ec2-34-194-158-176.compute-1.amazonaws.com";
 		private final static String porta = "5432";
 		private final static String banco = "d5o3n662mkk9cp";
