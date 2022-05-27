@@ -1,29 +1,30 @@
-Projeto LIVRARIAC
+<h2>Projeto LIVRARIAC</h2><br>
+<br>
+<h3>📝 Descrição </h3><br>
+<br>
+Este Projeto é para a disciplina de Prática Profissional 2022.1 da UNINASSAU. Porém tenho vontade de dar continuidade a ele. <br>
+É uma aplicação de controle de livros de uma livraria sem fins lucrativos e itinerante, de forma que qualquer pessoa que queira pegar um livro, deve doar 1 ou mais livros para livraria.<br>
+<br>
+<h3>📚 Funcionalidades</h3><br>
+<br>
+<b>Cadastrar Novo Livro:</b> O usuário poderá cadastrar um novo livro recebido de doação que estará disponível para retirada.<br>
+    <br>
+<b>Editar Livro:</b> O usuário poderá editar o cadastro de um livro, corrigindo possíveis erros ou alterando a quantidade disponível.<br>
+    <br>
+<b>Consultar Livros disponíveis:</b> O usuário poderá consultar todos os livros cadastrados e suas quantidades disponíveis.<br>
+    <br>
+<b>Excluir Livros:</b> O usuário poderá excluir um livro que esteja cadastrado.<br>
+    <br>
+<br>
+<h3>🚀 Rodando o projeto</h3><br>
+<br>
+Para rodar o repositório é necessário clonar o mesmo.<br>
+<br>
 
-📝 Descrição
-
-Este Projeto é para a disciplina de Prática Profissional 2022.1 da UNINASSAU. Porém tenho vontade de dar continuidade a ele. É uma aplicação de controle de livros de uma livraria sem fins lucrativos e itinerante. De forma que qualquer pessoa que queira pegar um livro, deve doar 1 ou mais livros para livraria.
-
-📚 Funcionalidades
-
-    • Cadastrar Novo Livro: O usuário poderá cadastrar um novo livro recebido de doação que estará disponível para retirada.
-    
-    • Editar Livro: O usuário poderá editar o cadastro de um livro, corrigindo possíveis erros ou alterando a quantidade disponível.
-    
-    • Consultar Livros disponíveis: O usuário poderá consultar todos os livros cadastrados e suas quantidades disponíveis.
-    
-    • Excluir Livros: O usuário poderá excluir um livro que esteja cadastrado.
-    
-
-🚀 Rodando o projeto
-
-Para rodar o repositório é necessário clonar o mesmo.
-
-
-  🤝 Colaboradores
-  
-FernandaMMoreira
-
-  🎯 Status do projeto
-  
-  Projeto esta em andamento, essa é uma versão MVP para entrega da faculdade.
+ <h3> 🤝 Colaboradores</h3><br>
+  <br>
+FernandaMMoreira<br>
+<br>
+  <h3>🎯 Status do projeto</h3><br>
+  <br>
+  Projeto esta em andamento, essa é uma versão MVP para entrega da faculdade.<br>
